@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6PB/FJXKLDs0odGZEKEhhwIEXKjzuoulMEQX6ArcAoI=",
+  "Source": "dotnetbank",
+  "BasePath": "_content/dotnetbank",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
